@@ -1,0 +1,4 @@
+git add
+git commit
+git push
+수업시간에 배운 commit 연습
